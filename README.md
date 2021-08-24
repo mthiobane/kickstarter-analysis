@@ -29,7 +29,7 @@ Except for the goal between $35000 to $49999 but the number of projects is very 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-We can conclude that between May and ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89410157/130670336-e7769ea5-2d21-4c76-9175-d6fb15a9f774.png) is the best period to launch campaigns and May is the pick.
+We can conclude that between May and August is the best period to launch campaigns and May is the pick.
 Decembre is not a good month to launch a campaign  
 
 - What can you conclude about the Outcomes based on Goals?
