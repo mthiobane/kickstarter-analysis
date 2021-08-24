@@ -3,6 +3,8 @@
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/89410157/130493769-a37f9741-17ca-45ce-ab0c-2639f0c8b436.png)
 
 
+# Kickstarter-analysis
+
 ## Overview of Project
 The project is studying out outcomes of the crowdfunding base on the goal and pledge. 
 
